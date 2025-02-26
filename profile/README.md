@@ -1,6 +1,6 @@
 # SLavaSOFT.NET
 
-![SLavaSOFT.NET Logo (Recommended to add logo)](./assets/logo.png)
+<!--![SLavaSOFT.NET Logo (Recommended to add logo)](./assets/logo.png)-->
 
 Welcome to SLavaSOFT.NET! We develop innovative solutions for automating and optimizing the operations of industrial enterprises. Our flagship product is Cimro 2.0, an application for managing the modernization and maintenance department of automated warehouse systems.
 
