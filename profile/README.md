@@ -31,11 +31,11 @@ Welcome to SLavaSOFT.NET! We develop innovative solutions for automating and opt
 
 ## Installation and Usage
 
-Detailed instructions for installing and configuring Cimro 2.0 can be found in the [documentation](./docs/installation.md).
+Detailed instructions for installing and configuring Cimro 2.0 can be found in the [documentation](./Resources/Installation.md).
 
 ## Contributing
 
-We welcome community contributions to the development of Cimro 2.0! If you want to help us improve the application, please read the [contribution guide](./CONTRIBUTING.md).
+We welcome community contributions to the development of Cimro 2.0! If you want to help us improve the application, please read the [contribution guide](./Resources/Contributing.md).
 
 Possible areas for contribution:
 
