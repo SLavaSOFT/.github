@@ -49,13 +49,9 @@ Possible areas for contribution:
 
 We are constantly working on improving Cimro 2.0 and plan to introduce the following features in the near future:
 
-*   **Integration with IoT Sensors:** Real-time equipment condition monitoring and predictive maintenance.
+*   **Integration with Equipment:** Real-time equipment condition monitoring and predictive maintenance.
 *   **Using Machine Learning:** Automatic fault diagnosis and optimization of maintenance schedules.
 *   **Advanced Reporting Capabilities:** Deeper data analysis and customizable reports.
-
-## License
-
-Cimro 2.0 is distributed under the [MIT License](./LICENSE).
 
 ## Contact
 
