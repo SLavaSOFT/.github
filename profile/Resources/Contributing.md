@@ -91,10 +91,6 @@ If you find a bug in Cimro 2.0, please report it by creating a new issue on GitH
 
 If you have an idea for a new feature or enhancement to Cimro 2.0, please submit it as a new issue on GitHub.  Describe your suggestion in detail and explain why you think it would be a valuable addition to the project.
 
-## Code of Conduct
-
-Please note that this project adheres to a [Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
-
 ## Thank You!
 
 Thank you for your interest in contributing to Cimro 2.0!  We appreciate your help in making this project better.
