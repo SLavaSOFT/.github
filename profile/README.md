@@ -6,7 +6,7 @@ Welcome to SLavaSOFT.NET! We develop innovative solutions for automating and opt
 
 ## Cimro 2.0 Revolutionizing Warehouse Maintenance Management
 
-![Cimro 2.0 Screenshot (Recommended to add screenshot)](./Resources/Poster.webp)
+![Cimro 2.0 Poster](./Resources/Poster.webp)
 
 **Cimro 2.0** is a comprehensive solution designed to improve the efficiency of departments responsible for the modernization and maintenance of automated warehouse systems. We understand how critical seamless warehouse operation is for modern business, and Cimro 2.0 provides the tools needed to achieve this goal.
 
@@ -32,7 +32,7 @@ Welcome to SLavaSOFT.NET! We develop innovative solutions for automating and opt
 ## Installation and Usage
 
 Detailed instructions for installing and configuring Cimro 2.0 can be found in the [documentation](./Resources/Installation.md).
-
+<!--
 ## Contributing
 
 We welcome community contributions to the development of Cimro 2.0! If you want to help us improve the application, please read the [contribution guide](./Resources/Contributing.md).
@@ -44,7 +44,7 @@ Possible areas for contribution:
 *   Translation of documentation into other languages
 *   Writing tests
 *   Improving the user interface
-
+-->
 ## Roadmap
 
 We are constantly working on improving Cimro 2.0 and plan to introduce the following features in the near future:
